@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <module id="Tenant" description="Default Tenant" tenantId="Tenant" major="1" minor="0" patch="1">
+  <module id="Tenant" description="Default Tenant" tenantId="Tenant" major="1" minor="5" patch="0">
     <loadAfter moduleRefId="*" />
     <probePath path="Config\metadata\Tenant\ra" />
   </module>
